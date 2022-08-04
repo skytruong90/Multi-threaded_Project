@@ -11,6 +11,6 @@ Deadlock occurs when multiple threads need the same locks but obtain them in dif
 Synchronized methods enable a simple strategy for preventing thread interference and memory consistency errors: if an object is visible to more than one thread, all reads or writes to that object's variables are done through synchronized methods.
 
 ## How to install and run the program? 
-1.
-2.
-3.
+1. Go to `code2tan.java`
+2. copy the code in there.
+3. paste to an Java IDE or use an online compiler and run the code.
