@@ -9,3 +9,8 @@ Write a program that synchronizes movement of vehicles through the repair zone i
 Deadlock occurs when multiple threads need the same locks but obtain them in different order. A Java multithreaded program may suffer from the deadlock condition because the synchronized keyword causes the executing thread to block while waiting for the lock, or monitor, associated with the specified object.
 
 Synchronized methods enable a simple strategy for preventing thread interference and memory consistency errors: if an object is visible to more than one thread, all reads or writes to that object's variables are done through synchronized methods.
+
+## How to install and run the program? 
+1.
+2.
+3.
